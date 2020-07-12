@@ -9,4 +9,4 @@ Arduino RoboCore Black Board (Uno R3) medir temperatura do ambiente e a umidade
 	U3	1	        Sensor de temperatura [TMP36]
 	R2	2	        10 kΩ Resistor
 
-![alt text](https://github.com/eduardofari/temperatura_umidade/blob/master/protoripo.jpg?raw=true)
+![alt text](https://github.com/eduardofari/temperatura_umidade/blob/master/protoripo.png?raw=true)
